@@ -4,11 +4,7 @@
 //
 // Runs on a Mega with the Create connected to Serial1
 // Does not run any motors.
-// Prints the result of the self test to Serial
-// Does not require the RXD transistor driver since it uses Serial1 to talk to the Roomba, not Serial.
 //
-// Copyright (C) 2010 Mike McCauley
-// $Id: $
 
 #include <Roomba.h>
 
